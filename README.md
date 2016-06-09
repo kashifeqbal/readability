@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/kashifeqbal/readability.png?label=ready&title=Ready)](https://waffle.io/kashifeqbal/readability)
 # Readability
 Turn any web page into a clean view. This module is based on arc90's readability project.
 
